@@ -38,7 +38,7 @@ This repository is about my journey in learning Ruby. It includes projects, exer
 
 The following tools were used in this project:
 
-- [Ruby](https://www.ruby-lang.org/)
+- <a href="https://www.ruby-lang.org/" target="_blank">Ruby</a>
   
 ## :white_check_mark: Requirements ##
 
@@ -69,7 +69,7 @@ This project is under license from MIT.
 
 ## :rocket: Author ##
 
-Made with :heart: by <a href="https://github.com/kibongos40" target="_blank">kibongos40</a>
+Made with :heart: by <a href="https://github.com/kibongos40" target="_blank">Kibongo Simon Peter</a>
 
 &#xa0;
 
